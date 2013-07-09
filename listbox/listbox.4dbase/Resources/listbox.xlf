@@ -1,0 +1,65 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<xliff 
+	version="1.0" 
+	xmlns:d4="http://www.4d.com/d4-ns">
+	
+	<file 
+		datatype="x-4DK#" 
+		original="undefined" 
+		source-language="en-US" 
+		target-language="en-US"
+		product-version="v13">
+		
+		<header />
+		
+		<body>
+
+			<group restype="x-4DK#">
+			
+				<trans-unit id="School Grade 1" d4:value="小1:S">
+				   <source>School Grade 1</source>
+				</trans-unit>
+				<trans-unit id="School Grade 2" d4:value="小2:S">
+				   <source>School Grade 2</source>
+				</trans-unit>				
+				<trans-unit id="School Grade 3" d4:value="小3:S">
+				   <source>School Grade 3</source>
+				</trans-unit>
+				<trans-unit id="School Grade 4" d4:value="小4:S">
+				   <source>School Grade 4</source>
+				</trans-unit>
+				<trans-unit id="School Grade 5" d4:value="小5:S">
+				   <source>School Grade 5</source>
+				</trans-unit>
+				<trans-unit id="School Grade 6" d4:value="小6:S">
+				   <source>School Grade 6</source>
+				</trans-unit>												
+				<trans-unit id="School Grade 7" d4:value="中1:S">
+				   <source>School Grade 7</source>
+				</trans-unit>
+				<trans-unit id="School Grade 8" d4:value="中2:S">
+				   <source>School Grade 8</source>
+				</trans-unit>				
+				<trans-unit id="School Grade 9" d4:value="中3:S">
+				   <source>School Grade 9</source>
+				</trans-unit>
+				
+				<trans-unit id="Numeric Format Total People" d4:value="#,###,###,##0 名:S">
+				   <source>Numeric Format Total People</source>
+				</trans-unit>	
+				
+				<trans-unit id="Numeric Format Average Age" d4:value="##0.# 歳:S">
+				   <source>Numeric Format Average Age</source>
+				</trans-unit>	
+
+				<trans-unit id="Numeric Format Blank If Zero" d4:value="#,###,###,##^:S">
+				   <source>Numeric Format Blank If Zero</source>
+				</trans-unit>	
+																								
+			 </group>
+			 
+		</body>	
+	
+	</file>
+	
+</xliff>
